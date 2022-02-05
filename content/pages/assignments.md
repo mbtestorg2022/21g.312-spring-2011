@@ -18,27 +18,227 @@ The paper should be between 5 and 6 pages. Students will decide on their topic a
 
 The weekly short-answer papers should consist of a half-page argument on the weekly theme. The prompts for each session are shown in the table below.
 
-| SES # | TOPICS | SHORT-ANSWER QUESTIONS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**1E PARTIE: QU'EST-CE QUE L'ENFANCE?**{{< /td-colspan >}} |||
-| 1 | La place de l'enfant | None |
-| 2 | La parole de l'enfant | La vérité sort-elle de la bouche des enfants? |
-| 3 | L'inconvénient d'être né | Avez-vous choisi vos parents? |
-| 4 | Quitter l'enfance I | None |
-| 5 |
-| 6 | Quitter l'enfance II | Quand l'enfance s'arrête-t-elle? |
-| {{< td-colspan 3 >}}**2E PARTIE: VIVRE L'ENFANCE**{{< /td-colspan >}} |||
-| 7 | Les amis d'enfance | L'enfance est-elle le meilleur moment de la vie? |
-| 8 | Des jeux d'enfant | Les enfants s'émerveillent-ils de tout? |
-| 9 | L'enfant roi | Les enfants sont-ils innocents? |
-| 10 | Souffrir d'enfance I | None |
-| 11 |
-| 12 | Souffrir d'enfance II | Faut-il punir plus sévèrement les violences contre les enfants? |
-| {{< td-colspan 3 >}}**3E PARTIE: LES ADULTES ET L'ENFANCE**{{< /td-colspan >}} |||
-| 13 | L'éducation I | Faut-il abaisser l'âge de la majorité? |
-| 14 | L'éducation II | None |
-| 15 |
-| 16 | L'enfance perdue, l'enfance retrouvée | Pourriez-vous vivre sans enfant? |
-| 17 | La disparition de l'enfant | None 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SHORT-ANSWER QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**1E PARTIE: QU'EST-CE QUE L'ENFANCE?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+La place de l'enfant
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+La parole de l'enfant
+{{< tdclose >}}
+{{< tdopen >}}
+La vérité sort-elle de la bouche des enfants?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+L'inconvénient d'être né
+{{< tdclose >}}
+{{< tdopen >}}
+Avez-vous choisi vos parents?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Quitter l'enfance I
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Quitter l'enfance II
+{{< tdclose >}}
+{{< tdopen >}}
+Quand l'enfance s'arrête-t-elle?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2E PARTIE: VIVRE L'ENFANCE**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Les amis d'enfance
+{{< tdclose >}}
+{{< tdopen >}}
+L'enfance est-elle le meilleur moment de la vie?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Des jeux d'enfant
+{{< tdclose >}}
+{{< tdopen >}}
+Les enfants s'émerveillent-ils de tout?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+L'enfant roi
+{{< tdclose >}}
+{{< tdopen >}}
+Les enfants sont-ils innocents?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Souffrir d'enfance I
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Souffrir d'enfance II
+{{< tdclose >}}
+{{< tdopen >}}
+Faut-il punir plus sévèrement les violences contre les enfants?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**3E PARTIE: LES ADULTES ET L'ENFANCE**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+L'éducation I
+{{< tdclose >}}
+{{< tdopen >}}
+Faut-il abaisser l'âge de la majorité?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+L'éducation II
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+L'enfance perdue, l'enfance retrouvée
+{{< tdclose >}}
+{{< tdopen >}}
+Pourriez-vous vivre sans enfant?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+La disparition de l'enfant
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There are no short answer questions for the 4th part of the course.
